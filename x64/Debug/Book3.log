@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Book3.cpp
+  Book3Dlg.cpp
+c:\users\user\desktop\sejongc-programming\book\book3dlg.cpp(256): warning C4244: '=': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BookData.cpp
+  Childial.cpp
+  Moddial.cpp
+  코드를 생성하고 있습니다...
+  Book3.vcxproj -> C:\Users\USER\Desktop\sejongC-Programming\Book\x64\Debug\Book3.exe
